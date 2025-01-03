@@ -1,10 +1,21 @@
-import './App.css'
+import React from 'react'
+import { createBrowserRouter, createRoutesFromElements, Route, RouterProvider } from 'react-router-dom'
+import LayoutOne from './Layout/LayoutOne'
+import Home from './Pages/Home'
 
 function App() {
-  
+
+  const myRoute =createBrowserRouter(createRoutesFromElements(
+    <Route path='/' element={<LayoutOne/>}>
+      <Route index element={<Home/>}/>
+    </Route>
+  ))
+
+
+
   return (
     <>
-         
+      <RouterProvider router={myRoute}/> 
     </>
   )
 }
