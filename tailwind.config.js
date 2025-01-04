@@ -6,14 +6,16 @@ export default {
   ],
   theme: {
     extend: {
-      'bannaOne':'#FFF7CF',
-      'bannaTwo':'#F5DE6E',
-      'StrawberryOne':'#FFE1E2',
-      'StrawberryTwo':'#FCB1B4',
-      'KiwiOne':'#ECFFCC',
-      'KiwiTwo':'#8FB351',
-      'bluberryOne':'#FFCBEA',
-      'bluberryTwo':'#C976A7'
+      colors: {
+        bannaOne: '#FFF7CF',
+        bannaTwo: '#F5DE6E',
+        strawberryOne: '#FFE1E2',
+        strawberryTwo: '#FCB1B4',
+        kiwiOne: '#ECFFCC',
+        kiwiTwo: '#8FB351',
+        bluberryOne: '#FFCBEA',
+        bluberryTwo: '#C976A7',
+      },
     },
     container: {
       center: true,
