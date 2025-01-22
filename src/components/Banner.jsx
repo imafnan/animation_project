@@ -7,7 +7,7 @@ import Bluberry from "../assets/Image/Bluberry.png";
 import bannaIcon from "../assets/Image/bananaIcon.png";
 import StrawberryIcon from "../assets/Image/StrawberryIcon.png";
 import KiwiIcon from "../assets/Image/KiwiIcon.png";
-import bluberryIcon from "../assets/Image/bluberryIcon.png";
+import bluberryIcon from "../assets/Image/BluberryIcon.png";
 import { useState } from "react";
 
 const Banner = () => {
