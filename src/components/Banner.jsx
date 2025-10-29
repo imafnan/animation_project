@@ -29,7 +29,7 @@ const Banner = () => {
                 Sip Your Way to Bliss Taste
               </h1>
               <p className="font-ABeeZee font-normal text-[26px] w-[608px] pt-[31px] ">
-                We're dedicated to bringing you deliciously fresh smoothies,
+                We&apos;	re dedicated to bringing you deliciously fresh smoothies,
                 made with love, care, and the finest ingredients.
               </p>
               <div className="flex mt-[20px] mb-5">
