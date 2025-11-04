@@ -4,7 +4,7 @@ import Kiwi from "../assets/Image/Kiwi.png";
 import Bluberry from "../assets/Image/Bluberry.png";
 
 // =========== icon image import
-import bannaicon from "../assets/Image/bananaIcon.png";
+import bannaicon from "../assets/Image/BananaIcon.png";
 import StrawberryIcon from "../assets/Image/StrawberryIcon.png";
 import KiwiIcon from "../assets/Image/KiwiIcon.png";
 import bluberryIcon from "../assets/Image/BluberryIcon.png";
